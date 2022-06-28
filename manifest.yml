@@ -1,0 +1,3 @@
+applications:
+- name: myappid-node-752ca48e-beab-4aa6-a21b-9a51670561b1
+  memory: 256M
